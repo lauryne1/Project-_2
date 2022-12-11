@@ -1,0 +1,28 @@
+/* * {
+  margin: 0;
+} */
+/* .cadre {
+  display: flex;
+  height: 180px;
+  width: 100%;
+  background-color: white;
+  margin-top: 200px;
+} */
+div {
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(17, 17, 17);
+    font-size: 95px;
+    font-family:"Times New Roman";
+    height: 100vh;
+  }
+  
+
+  
+  div:hover {
+    color: blue;
+  }
+  
